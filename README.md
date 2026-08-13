@@ -16,6 +16,20 @@ Building modern web applications, developer tools and practical digital products
 - Achieved **#1 Google ranking** for targeted search queries and grew the platform to **20K+ annual users** and **375+ newsletter subscribers**.
 - Managed **web hosting, domain configuration, deployment, and production infrastructure** using **cPanel**.
 
+## Technical Skills
+
+**Languages** · JavaScript · Python · HTML · CSS
+
+**Frontend** · React.js · Vite · Bootstrap · PWA
+
+**Backend** · Django · Django REST Framework
+
+**Authentication** · Google OAuth
+
+**Deployment** · cPanel · Cloudflare · Vercel
+
+**Tools** · Git · GitHub
+
 ## Beyond the Code
 
 Open to meaningful collaborations, interesting ideas and opportunities to build impactful technology.
