@@ -1,3 +1,17 @@
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diggajbaral&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak"/>
-</p>
+Building modern web applications, developer tools, and practical digital products with a focus on **JavaScript, React, Django and Python**.
+
+## Professional Experience
+
+`◆` &nbsp; **Founder & Software Developer**  
+[Aftermin](https://aftermin.com) · 2025 - Present  
+- Built and deployed a React.js Progressive Web App (PWA) with a Django + Django REST Framework backend.
+- Integrated **Google OAuth authentication** for secure and seamless user authentication.
+- Managed production deployment, hosting, caching and security using **cPanel and Cloudflare**.
+
+<br>
+
+`◆` &nbsp; **Founder & Software Developer**  
+[Compex Nepal](https://compexnepal.com) · 2024 - Present  
+- Built and maintained a **Django Templates-based platform**, with a strong focus on **SEO, performance and organic search visibility**.
+- Achieved **#1 Google ranking** for targeted search queries and grew the platform to **20K+ annual users** and **375+ newsletter subscribers**.
+- Managed **web hosting, domain configuration, deployment, and production infrastructure** using **cPanel**.
