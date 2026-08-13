@@ -18,17 +18,23 @@ Building modern web applications, developer tools and practical digital products
 
 ## Technical Skills
 
-**Languages** · JavaScript · Python · HTML · CSS
+**Languages**  
+`JavaScript` · `Python` · `HTML` · `CSS`
 
-**Frontend** · React.js · Vite · Bootstrap · PWA
+**Frontend**  
+`React.js` · `Vite` · `Bootstrap` · `PWA`
 
-**Backend** · Django · Django REST Framework
+**Backend**  
+`Django` · `Django REST Framework` · `REST APIs`
 
-**Authentication** · Google OAuth
+**Authentication**  
+`Google OAuth Authentication`
 
-**Deployment** · cPanel · Cloudflare · Vercel
+**Deployment & Infrastructure**  
+`cPanel` · `Cloudflare` · `Vercel`
 
-**Tools** · Git · GitHub
+**Analytics & SEO**  
+`Google Analytics` · `Google Search Console`
 
 ## Beyond the Code
 
