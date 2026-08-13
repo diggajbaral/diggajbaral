@@ -1,4 +1,4 @@
-Building modern web applications, developer tools, and practical digital products with a focus on **JavaScript, React, Django and Python**.
+Building modern web applications, developer tools and practical digital products with a focus on **JavaScript, React, Django and Python**.
 
 ## Professional Experience
 
@@ -15,3 +15,11 @@ Building modern web applications, developer tools, and practical digital product
 - Built and maintained a **Django Templates-based platform**, with a strong focus on **SEO, performance and organic search visibility**.
 - Achieved **#1 Google ranking** for targeted search queries and grew the platform to **20K+ annual users** and **375+ newsletter subscribers**.
 - Managed **web hosting, domain configuration, deployment, and production infrastructure** using **cPanel**.
+
+## Beyond the Code
+
+Open to meaningful collaborations, interesting ideas and opportunities to build impactful technology.
+
+**Twitter** &nbsp; [x.com/diggajbrl](https://x.com/diggajbrl)  
+
+**LinkedIn** &nbsp; [linkedin.com/in/diggaj](https://linkedin.com/in/diggaj)  
