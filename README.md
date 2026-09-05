@@ -23,3 +23,7 @@ Building modern web applications, developer tools and practical digital products
 - Built and maintained a **Django Templates-based platform**, with a strong focus on **SEO, performance and organic search visibility**.
 - Achieved **#1 Google ranking** for targeted search queries and grew the platform to **20K+ annual users** and **375+ newsletter subscribers**.
 - Managed **web hosting, domain configuration, deployment, and production infrastructure** using **cPanel**.
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diggajbaral&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak"/>
+</p>
